@@ -33,3 +33,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 3. git push https://'prafulla-pol'@github.com/prafulla-pol/ng-todo-app.git
 4. npm install bootstrap
 5. npm install jquery
+6. ng generate component my-components/todo
