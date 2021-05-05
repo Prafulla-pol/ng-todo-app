@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Commands
+1. ng new ng-todo-app
+2. ng serve
+3. git push https://'prafulla-pol'@github.com/prafulla-pol/ng-todo-app.git
+4. npm install bootstrap
+5. npm install jquery
